@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hybrid</title>
+    <script>
+      // Hybrid se mudó de /hybrid/ a /Hybrid/: los enlaces antiguos (invitaciones, rutinas compartidas,
+      // apps de Android instaladas antes del cambio) se reenvían a la dirección nueva.
+      var p = location.pathname
+      if (/^\/hybrid(\/|$)/.test(p)) location.replace('/Hybrid' + p.slice(7) + location.search + location.hash)
+    </script>
+    <style>
+      body { margin: 0; background: #000; color: #fff; font: 16px system-ui, sans-serif; display: grid; place-items: center; min-height: 100vh; }
+      a { color: #1c8cff; }
+    </style>
+  </head>
+  <body>
+    <p>Página no encontrada. <a href="/Hybrid/">Ir a Hybrid</a></p>
+  </body>
+</html>
