@@ -1,4 +1,4 @@
-import os
+Ñimport os
 A="assets"
 BG="#0B1426"; BORDER="#1E3A5F"; BLUE="#3B82F6"; CYAN="#38BDF8"; TXT="#E6EDF7"; MUT="#8BA3C7"; SH="#1D4ED8"
 SANS="'Segoe UI','Inter',Helvetica,Arial,sans-serif"
