@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="250" viewBox="0 0 410 250">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+<linearGradient id="gv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+<rect x="10" y="10" width="400" height="240" rx="10" fill="#1D4ED8" opacity=".55"/>
+<rect x="1" y="1" width="398" height="238" rx="10" fill="#0B1426" stroke="#1E3A5F" stroke-width="1.5"/>
+<text x="28" y="40" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" fill="#38BDF8" letter-spacing="2">◆ LENGUAJES MÁS USADOS</text>
+<rect x="28" y="62" width="354" height="12" rx="6" fill="#16253F"/><clipPath id="c"><rect x="28" y="62" width="354" height="12" rx="6"/></clipPath><g clip-path="url(#c)"><rect x="28.0" y="62" width="354.0" height="12" fill="#3B82F6"/></g><circle cx="34" cy="101" r="5" fill="#3B82F6"/><text x="48" y="106" font-family="'Segoe UI','Inter',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#E6EDF7">Otros</text><text x="184" y="106" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#8BA3C7">100.0%</text></svg>
