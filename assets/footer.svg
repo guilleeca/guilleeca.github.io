@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="60" viewBox="0 0 840 60"><defs>
-<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#16253F" stroke-width="1"/></pattern>
-</defs>
-<line x1="0" y1="20" x2="840" y2="20" stroke="#1E3A5F" stroke-width="2"/>
-<line x1="0" y1="20" x2="840" y2="20" stroke="url(#g)" stroke-width="2" stroke-dasharray="40 800"><animate attributeName="stroke-dashoffset" from="840" to="0" dur="4s" repeatCount="indefinite"/></line>
-<text x="420" y="50" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#8BA3C7" letter-spacing="2">GRACIAS POR PASARTE · GUILLERMO CAMINERO</text></svg>
