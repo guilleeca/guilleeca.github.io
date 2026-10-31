@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210" height="58" viewBox="0 0 210 58">
-<rect x="6" y="6" width="204" height="52" rx="8" fill="#1D4ED8" opacity=".55"/>
-<rect x="1" y="1" width="202" height="50" rx="8" fill="#0B1426" stroke="#3B82F6" stroke-width="1.5"/>
-<path d="M27 18l-7 8 7 8M39 18l7 8-7 8" fill="none" stroke="#38BDF8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><line x1="60" y1="12" x2="60" y2="40" stroke="#1E3A5F"/>
-<text x="132" y="32" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#E6EDF7" letter-spacing="2">PROYECTOS</text></svg>
