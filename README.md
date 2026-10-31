@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/guillermo-caminero-araus/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:camineroarausguillermo@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email" /></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=camineroarausguillermo@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/guilleeca?tab=repositories"><img src="assets/btn-repos.svg" height="52" alt="Proyectos" /></a>
 </p>
